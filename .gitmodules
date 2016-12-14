@@ -1,0 +1,3 @@
+[submodule "helpman_clock"]
+	path = helpman_clock
+	url = https://github.com/helpmanclock/helpman_clock
